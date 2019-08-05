@@ -1,0 +1,15 @@
+/
+/2019/08/05/hello-world/
+/2019/08/05/hello-world/feed/
+/author/shennong/
+/category/uncategorized/feed/
+/sample-page/
+/sample-page/feed/
+/wp-content/themes/Ovidio-for-WordPress-master/public/assets/css/box-model.css
+/wp-content/themes/Ovidio-for-WordPress-master/public/assets/css/global.css
+/wp-content/themes/Ovidio-for-WordPress-master/public/assets/css/interface.css
+/wp-content/themes/Ovidio-for-WordPress-master/public/assets/css/override.css
+/wp-content/themes/Ovidio-for-WordPress-master/public/assets/js/prism.min.js
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/
+/wp-json/oembed/1.0/embed

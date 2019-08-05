@@ -1,0 +1,7 @@
+/2019/08/05/hello-world/feed/
+/author/shennong/
+/category/uncategorized/feed/
+/sample-page/feed/
+/wp-includes/css/dist/block-library/style.min.css
+/wp-json/
+/wp-json/oembed/1.0/embed
