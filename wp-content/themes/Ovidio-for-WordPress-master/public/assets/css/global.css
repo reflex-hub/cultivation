@@ -1,0 +1,12 @@
+*, *::before, *::after {margin: 0;padding: 0;border: none;outline: 0;font-family: "-apple-system","BlinkMacSystemFont","Segoe UI","Helvetica Neue","Arial";font-size: 12px;font-weight: 300;}
+*, *::before, *::after {-webkit-font-smoothing: antialiased !important;-moz-osx-font-smoothing: grayscale !important;text-rendering: optimizeLegibility !important;}
+*:focus, *:focus::before, *:focus::after {outline: 0;}
+html, body {overflow-x: hidden;background-color: #000;}
+main {background-color: #fcfcfc;}
+main > div:first-child {background-color: transparent;z-index: 2048;}
+b, strong {font-weight: 500;}
+b, strong, i, em, span, code {font-size: inherit;color: inherit;}
+figure, video, img {max-width: 100%;}
+input {-webkit-appearance: none;appearance: none;}
+a {-ms-word-wrap: break-word;word-wrap: break-word;}
+svg {shape-rendering: geometricPrecision !important;}
